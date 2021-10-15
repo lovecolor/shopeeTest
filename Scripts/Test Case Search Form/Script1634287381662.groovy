@@ -19,13 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('http://localhost:3000/')
 
-WebUI.acceptAlert()
+WebUI.focus(findTestObject('Page_React App/input_ng k_searchKey'))
 
-WebUI.acceptAlert()
+WebUI.verifyElementText(findTestObject('Page_React App/div_ShopeePay  dch v tin ch'), 'ShopeePay & dịch vụ tiện ích')
 
-WebUI.acceptAlert()
+WebUI.setText(findTestObject('Page_React App/input_ng k_searchKey'), keyword)
 
-WebUI.acceptAlert()
+WebUI.verifyElementText(findTestObject('Page_React App/div_ShopeePay  dch v tin ch'), auto_complete_text)
 
-WebUI.acceptAlert()
+WebUI.closeBrowser()
 

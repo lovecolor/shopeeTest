@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Search Form</name>
+   <name>Test Case Search Form</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b14c3707-d898-42ae-946d-d2e79c242d10</testCaseGuid>
@@ -17,6 +17,6 @@
       <description></description>
       <id>10eab8b3-b5f1-4bcb-b856-63a36f8583ec</id>
       <masked>false</masked>
-      <name>variable</name>
+      <name>auto_complete_text</name>
    </variable>
 </TestCaseEntity>
