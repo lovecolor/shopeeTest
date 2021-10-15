@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Search Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b14c3707-d898-42ae-946d-d2e79c242d10</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d4139892-7bd8-4592-a275-2f7175f33ab9</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10eab8b3-b5f1-4bcb-b856-63a36f8583ec</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
